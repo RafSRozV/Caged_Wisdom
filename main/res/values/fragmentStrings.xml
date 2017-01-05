@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fragment_explanation_text">\nWelcome to Wisdom Hut!\nFreely test yourself in a relaxed
+        environment. Amaze your friends and family with your newfound knowledge of the Grand
+        Master of Disguise, the Overlord of Acting and the Founder of the \'Nouveau Shamanic\'
+        acting style.\nPress \'Reveal Answer\' to discover a question\'s correct answer.\n</string>
+    <string name="question1_text">Question1</string>
+    <string name="question_text">Question</string>
+    <string name="answer_heading_text">Answer</string>
+    <string name="answer_text">REVEAL ANSWER</string>
+
+</resources>

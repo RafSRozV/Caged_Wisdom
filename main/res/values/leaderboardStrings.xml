@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="filter_username_text">Filter by username.</string>
+    <string name="filter_button_text">Filter</string>
+    <string name="string_1">1</string>
+    <string name="username_text">Username</string>
+    <string name="score_text">Score</string>
+    <string name="string_2">2</string>
+    <string name="string_3">3</string>
+    <string name="string_4">4</string>
+    <string name="string_5">5</string>
+    <string name="string_6">6</string>
+    <string name="string_7">7</string>
+    <string name="string_8">8</string>
+    <string name="string_9">9</string>
+    <string name="string_10">10</string>
+    <string name="Filter">Filter</string>
+    <string name="Unfilter">Unfilter</string>
+    <string name="noUser">No such user</string>
+</resources>

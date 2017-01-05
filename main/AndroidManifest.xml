@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="sav.honouringcage">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="sav.CagedWisdom.QuizOpening"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="sav.CagedWisdom.MultipleChoice"></activity>
+        <activity android:name="sav.CagedWisdom.TrueFalseQuestions"></activity>
+        <activity android:name="sav.CagedWisdom.TypeAnswerQuestions"></activity>
+        <activity android:name="sav.CagedWisdom.QuestionList"></activity>
+        <activity android:name="sav.CagedWisdom.Start_Screen"></activity>
+        <activity android:name="sav.CagedWisdom.LeaderboardScreen"></activity>
+        <activity android:name="sav.CagedWisdom.WinnersScreen"></activity>
+    </application>
+
+</manifest>

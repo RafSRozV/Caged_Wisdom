@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Caged Wisdom</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="submit">Submit</string>
+    <string name="skippedToast">Skipped</string>
+    <string name="correctToast">Correct</string>
+    <string name="selectAnswer">Please select an answer, skip or cheat.</string>
+    <string name="incorrectToast">Incorrect</string>
+    <string name="sp_name_message">Enter your name</string>
+    <string name="playerA_name_message">Enter Player A\'s name</string>
+    <string name="playerB_name_message">Enter Player B\'s name</string>
+    <string name="nameValidationPlayerA">Please enter a valid name for Player A</string>
+    <string name="nameValidationPlayerB">Please enter a valid name for Player B</string>
+    <string name="winners_screen_continue_message">Press the leaderboard or main menu button
+        to continue.</string>
+
+</resources>

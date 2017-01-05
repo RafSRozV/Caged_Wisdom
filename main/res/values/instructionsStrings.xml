@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="singlePlayerInstructions">
+        Welcome to Single Player:\n\n\n
+You will be presented with questions of increasing difficulty in three stages:\n
+• True and False • Multiple Choice • Type the answer\n\n
+
+Answer correctly and your score will increase. \n
+        Answer incorrectly, run from the bees (skip) or kidnap a baby (cheat) and you will score nothing.\n
+        Get a high enough score and you could land on the leaderboard!\n\n
+        To begin please enter a three-character username, with no spaces.
+</string>
+    <string name="multiPlayerInstructions">
+                Welcome to Multiplayer (Pass and Play):\n\n\n
+        You will both be presented with questions of increasing difficulty in three stages:\n
+• True and False • Multiple Choice • Type the answer\n\n
+
+Answer correctly and your score will increase. \n
+        Answer incorrectly, run from the bees (skip) or kidnap a baby (cheat) and you will score nothing.\n
+        Get a high enough score and you could land on the leaderboard!\n\n
+        To begin please enter two three-character usernames, with no spaces.\n
+    </string>
+    <string name="practiceModeInstructions"></string>
+
+
+    </resources>

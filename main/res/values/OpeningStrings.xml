@@ -1,0 +1,11 @@
+<resources>
+    <string name="welcome_message">Welcome to \'Caged Wisdom\', a specialised quiz app to test and
+    train your knowledge of the legendary Nicolas Cage. \n\n
+        Select Single Player to play alone.\n
+        Select Multiplayer to challenge a worthy opponent.\n
+        Select Wisdom Hut to train your knowledge.\n\n
+    Good luck and may the odds be ever in your favour.</string>
+    <string name="single_player_button">Single Player</string>
+    <string name="multiplayer_button">Multiplayer</string>
+    <string name="practice_button">Wisdom Hut</string>
+</resources>
